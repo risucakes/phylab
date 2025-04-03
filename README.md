@@ -1,0 +1,1 @@
+this program is coded to convert the scale from the picture that imported in to inkscape as a real sized picture that will be drawn in the paper with a CNC machine by using the speed and designed size as a parameter
